@@ -1,0 +1,22 @@
+C:\Users\user\Desktop\курсач\AutoPartsStore\AutoPartsStore\bin\Debug\AutoPartsStore.exe.config
+C:\Users\user\Desktop\курсач\AutoPartsStore\AutoPartsStore\bin\Debug\AutoPartsStore.exe
+C:\Users\user\Desktop\курсач\AutoPartsStore\AutoPartsStore\bin\Debug\AutoPartsStore.pdb
+C:\Users\user\Desktop\курсач\AutoPartsStore\AutoPartsStore\obj\Debug\AutoPartsStore.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\курсач\AutoPartsStore\AutoPartsStore\obj\Debug\AutoPartsStore.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\курсач\AutoPartsStore\AutoPartsStore\obj\Debug\AutoPartsStore.CarBrandForm.resources
+C:\Users\user\Desktop\курсач\AutoPartsStore\AutoPartsStore\obj\Debug\AutoPartsStore.Properties.Resources.resources
+C:\Users\user\Desktop\курсач\AutoPartsStore\AutoPartsStore\obj\Debug\AutoPartsStore.csproj.GenerateResource.cache
+C:\Users\user\Desktop\курсач\AutoPartsStore\AutoPartsStore\obj\Debug\AutoPartsStore.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\курсач\AutoPartsStore\AutoPartsStore\obj\Debug\AutoPartsStore.exe
+C:\Users\user\Desktop\курсач\AutoPartsStore\AutoPartsStore\obj\Debug\AutoPartsStore.pdb
+D:\Учеба\5 семестр\БД\Курсач\AutoPartsStoreNew\AutoPartsStore\bin\Debug\AutoPartsStore.exe.config
+D:\Учеба\5 семестр\БД\Курсач\AutoPartsStoreNew\AutoPartsStore\bin\Debug\AutoPartsStore.exe
+D:\Учеба\5 семестр\БД\Курсач\AutoPartsStoreNew\AutoPartsStore\bin\Debug\AutoPartsStore.pdb
+D:\Учеба\5 семестр\БД\Курсач\AutoPartsStoreNew\AutoPartsStore\obj\Debug\AutoPartsStore.csproj.AssemblyReference.cache
+D:\Учеба\5 семестр\БД\Курсач\AutoPartsStoreNew\AutoPartsStore\obj\Debug\AutoPartsStore.csproj.SuggestedBindingRedirects.cache
+D:\Учеба\5 семестр\БД\Курсач\AutoPartsStoreNew\AutoPartsStore\obj\Debug\AutoPartsStore.CarBrandForm.resources
+D:\Учеба\5 семестр\БД\Курсач\AutoPartsStoreNew\AutoPartsStore\obj\Debug\AutoPartsStore.Properties.Resources.resources
+D:\Учеба\5 семестр\БД\Курсач\AutoPartsStoreNew\AutoPartsStore\obj\Debug\AutoPartsStore.csproj.GenerateResource.cache
+D:\Учеба\5 семестр\БД\Курсач\AutoPartsStoreNew\AutoPartsStore\obj\Debug\AutoPartsStore.csproj.CoreCompileInputs.cache
+D:\Учеба\5 семестр\БД\Курсач\AutoPartsStoreNew\AutoPartsStore\obj\Debug\AutoPartsStore.exe
+D:\Учеба\5 семестр\БД\Курсач\AutoPartsStoreNew\AutoPartsStore\obj\Debug\AutoPartsStore.pdb
